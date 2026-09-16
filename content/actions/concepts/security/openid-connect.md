@@ -1,4 +1,4 @@
----
+copilot ---
 title: OpenID Connect
 intro: OpenID Connect allows your workflows to exchange short-lived tokens directly from your cloud provider.
 versions:
